@@ -1,0 +1,13 @@
+.blog{
+    background-color: aqua;
+    border: 7px solid  tomato;
+    border-radius: 12px;
+    margin: 12px 23px ;
+    margin-left: 12px;
+    text-align: justify;
+    padding: 10px;
+
+}
+body{
+    background-color:white;
+}
